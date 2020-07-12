@@ -5,7 +5,7 @@ end
 
 
 def name=(name)
-@name=name
+@name=name_of_dog
 end
 
 
